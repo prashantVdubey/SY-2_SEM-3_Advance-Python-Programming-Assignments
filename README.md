@@ -1,132 +1,135 @@
 # 🚀 SY-2 SEM-3 Advance Python Programming Assignments
 
-A collection of **Advance Python Programming** assignments completed as part of the **Semester 3** curriculum. This repository demonstrates core and advanced Python concepts, including Object-Oriented Programming (OOP), decorators, magic methods, file handling, function arguments, and more.
+> A comprehensive collection of **Advance Python Programming** assignments completed during **Semester 3** of my **B.Tech Computer Science & Engineering** course at **MIT ADT University, Pune**.
+
+This repository will be **regularly updated throughout the semester** with new assignments, practicals, mini-projects, and implementations covering various Python programming concepts.
 
 ---
 
-## 📚 About
+## 📖 About This Repository
 
-This repository contains solutions to various programming assignments designed to strengthen Python programming skills through practical implementation.
+This repository serves as a record of my learning journey in **Advance Python Programming**.
 
-Each assignment is written in Python and focuses on applying concepts rather than just learning theory.
+The assignments focus on applying theoretical concepts through practical implementations, helping strengthen problem-solving, Object-Oriented Programming (OOP), decorators, file handling, exception handling, and other advanced Python concepts.
+
+As the semester progresses, more assignments and projects will be added.
 
 ---
 
-## 🛠 Technologies Used
+## 🎯 Course Objectives
 
-- Python 3.x
+Throughout this course, I will be learning and implementing concepts such as:
+
+- Python Functions
 - Object-Oriented Programming (OOP)
+- Classes & Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
 - Decorators
-- Magic Methods
 - Class Methods
+- Static Methods
+- Magic Methods
 - File Handling
 - Exception Handling
-- Functions
-- Lists & Dictionaries
+- Modules & Packages
+- Iterators & Generators
+- Functional Programming
+- Regular Expressions
+- Multithreading
+- Database Connectivity
+- GUI Programming
+- Networking Concepts
+- Python Libraries
+- Mini Projects
+- Real-world Python Applications
 
 ---
 
-## 📂 Assignments Included
+# 📂 Repository Structure
 
-### 📌 Assignment 1 – Python Functions
-- Required Arguments
+```
+SY-2_SEM-3_Advance-Python-Programming-Assignments/
+│
+├── Assignment-01/
+├── Assignment-02/
+├── Assignment-03/
+├── Assignment-04/
+├── Assignment-05/
+├── ...
+├── README.md
+└── LICENSE
+```
+
+> **Note:** New assignments will be added as the semester progresses.
+
+---
+
+# 📚 Assignments Completed
+
+| Assignment | Topic | Status |
+|------------|-------|--------|
+| Assignment 1 | Python Functions | ✅ Completed |
+| Assignment 2 | Dynamic Report Generator | ✅ Completed |
+| Assignment 3 | Library Management System | ✅ Completed |
+| Assignment 4 | Login Authentication | ✅ Completed |
+| Assignment 5 | Function Call Logger | ✅ Completed |
+| Assignment 6 | Input Validation | ✅ Completed |
+| Assignment 7 | Function Call Counter | ✅ Completed |
+| Upcoming | More Semester Assignments | 🚧 In Progress |
+
+---
+
+# 💡 Concepts Covered So Far
+
+- Functions
 - Default Arguments
 - Keyword Arguments
-- Variable-Length Arguments (`*args`)
-- Append Elements in a List using Loop
-
----
-
-### 📌 Assignment 2 – Dynamic Report Generator
-- Report Templates
-- Decorators
-- Class Methods
-- Magic Methods (`__str__`, `__len__`, `__add__`, `__eq__`)
-- Dynamic Report Formatting
-
----
-
-### 📌 Assignment 3 – Library Management System
-- Add Books
-- Register Patrons
-- Borrow Books
-- Return Books
-- Search Books
-- Track Borrowing History
-- Fine Calculation
-- Object-Oriented Design
-
----
-
-### 📌 Assignment 4 – Login Authentication
-- User Signup
-- User Login
-- Logout
-- Authentication Decorator
-- Protected Functions
-
----
-
-### 📌 Assignment 5 – Function Call Logger
-- Decorators
-- Function Name Logging
-- Date & Time Logging
-- Execution Time Tracking
-- Call History
-
----
-
-### 📌 Assignment 6 – Input Validation
-- Decorator-based Argument Validation
-- Positive Integer Checking
-- Error Handling
-
----
-
-### 📌 Assignment 7 – Function Call Counter
-- Decorator
-- Function Call Tracking
-- Display Number of Function Calls
-
----
-
-## 🎯 Concepts Covered
-
+- Variable-Length Arguments
 - Classes & Objects
-- Constructors (`__init__`)
+- Constructors
 - Inheritance
 - Encapsulation
 - Composition
-- Class Methods
 - Decorators
-- Nested Functions
 - Wrapper Functions
+- Class Methods
 - Magic Methods
-- Function Overloading Concepts
 - Exception Handling
 - Lists
 - Dictionaries
-- Loops
-- Conditional Statements
 - Menu-Driven Programs
+
+> More concepts will be added as the course progresses.
 
 ---
 
-## ▶️ How to Run
+# 🛠 Technologies Used
 
-1. Clone the repository
+- Python 3.x
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+# ▶️ Getting Started
+
+### Clone the repository
 
 ```bash
 git clone https://github.com/prashantVdubey/SY-2_SEM-3_Advance-Python-Programming-Assignments.git
 ```
 
-2. Navigate to the project
+### Navigate to the repository
 
 ```bash
 cd SY-2_SEM-3_Advance-Python-Programming-Assignments
 ```
 
-3. Run any assignment
+### Run any assignment
 
 ```bash
 python filename.py
@@ -134,55 +137,68 @@ python filename.py
 
 ---
 
-## 📁 Repository Structure
+# 📈 Repository Progress
 
-```
-SY-2_SEM-3_Advance-Python-Programming-Assignments/
-│
-├── Functions.py
-├── Report Generator.py
-├── Library Management System.py
-├── Login Authentication.py
-├── Function Call Logger.py
-├── Input Validation.py
-├── Function Call Counter.py
-└── README.md
-```
+- ✅ Repository Created
+- ✅ Initial Assignments Uploaded
+- 🔄 Repository Updated Throughout Semester
+- 🎯 Final Repository will contain all Semester 3 Advance Python Programming assignments.
 
 ---
 
-## 🎓 Learning Outcomes
+# 📌 Future Additions
 
-Through these assignments, I gained hands-on experience with:
+As the semester continues, this repository may include:
 
-- Writing reusable Python code
-- Designing object-oriented applications
-- Creating and applying decorators
-- Using magic methods effectively
-- Building menu-driven console applications
-- Implementing authentication systems
-- Managing data using classes and collections
+- More Advanced Decorator Programs
+- File Handling Assignments
+- Database Connectivity
+- GUI Applications
+- Multithreading Programs
+- Regular Expressions
+- Networking Programs
+- Mini Projects
+- Python Automation Scripts
+- API Integration
+- Data Processing Programs
+- Real-world Python Applications
 
 ---
 
-## 👨‍💻 Author
+# 🎓 Learning Outcomes
+
+By maintaining this repository, I aim to:
+
+- Improve Python programming skills
+- Build strong Object-Oriented Programming knowledge
+- Learn advanced Python features
+- Practice writing clean and reusable code
+- Develop problem-solving abilities
+- Create a complete portfolio of Semester 3 Python assignments
+
+---
+
+# 👨‍💻 Author
 
 **Prashant Dubey**
 
-- 🎓 B.Tech Computer Science & Engineering
-- 🏫 MIT ADT University, Pune
-- 💻 Python | C++ | Java | Web Development
+🎓 B.Tech Computer Science & Engineering  
+🏫 MIT ADT University, Pune
 
-GitHub: https://github.com/prashantVdubey
+### Connect with me
 
----
-
-## ⭐ If you found this repository helpful
-
-If you like this repository, consider giving it a ⭐ on GitHub.
+- GitHub: https://github.com/prashantVdubey
 
 ---
 
-## 📜 License
+# ⭐ Support
 
-This project is created for educational purposes as part of university coursework.
+If you find this repository useful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📜 License
+
+This repository is maintained for **educational and learning purposes** as part of my university coursework.
+
+© 2026 Prashant Dubey. All Rights Reserved.
